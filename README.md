@@ -9,10 +9,11 @@ Terminal 1 (Backend):
 
 cd /Users/kevinshah/Desktop/IIT-GN/medical-dashboard/backend
 python3 app.py
+
 (This will now run on port 8080)
 
 Terminal 2 (Frontend):
 
-bash
+
 cd /Users/kevinshah/Desktop/IIT-GN/medical-dashboard/frontend
 npm run dev
